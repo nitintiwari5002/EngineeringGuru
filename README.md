@@ -25,3 +25,43 @@ Welcome to EngineeringGuru, your ultimate study companion for Mumbai University!
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+
+---
+
+## ⚙️ Installation
+
+## **1️⃣ Clone the repo**
+```bash
+git clone https://github.com/nitintiwari5002/EngineeringGuru.git
+cd Conscious Flow
+```
+
+## **2️⃣ Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+Or manually:
+```bash
+pip install streamlit
+```
+## **3️⃣ Steps for qwen3 API**
+
+```
+1.Get the API via Groq
+2.Create a .toml file and store API for security purpose
+3.Import and use it
+```
+## **4️⃣ Run the application**
+```bash
+streamlit run app.py
+```
+
+
+## **🌐 Environment Requirements**
+
+- Python 3.9+
+- Stable internet connection (optional for updates)
+
+## **👨🏻‍💻Deployed website link**
+- https://engineering-guru.streamlit.app
