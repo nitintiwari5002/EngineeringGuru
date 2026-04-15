@@ -15,7 +15,7 @@ Welcome to EngineeringGuru, your ultimate study companion for Mumbai University!
 <p>
   <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Groq-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi+Agent-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MultiAgent-purple?style=for-the-badge" />
 </p>
 
 <!-- Tools -->
